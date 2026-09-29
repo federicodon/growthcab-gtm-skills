@@ -50,6 +50,6 @@ The meeting benchmark comes from the [B2B Meeting No-Show Rate study](https://ww
 
 ## License
 
-Code: MIT. Benchmark data: CC BY 4.0. See [LICENSE](LICENSE).
+Code: MIT, see [LICENSE](LICENSE). Benchmark data: CC BY 4.0, see [DATA-LICENSE.md](DATA-LICENSE.md).
 
 Built by [Growth Cab](https://www.growthcab.com) · [Case studies](https://www.growthcab.com/case-studies) · [GTM tools we use](https://www.growthcab.com/gtm-tools)
