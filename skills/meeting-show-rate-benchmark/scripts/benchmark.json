@@ -1,0 +1,132 @@
+{
+ "source": "Growth Cab, B2B Meeting No-Show Rate study (2026)",
+ "url": "https://www.growthcab.com/b2b-meeting-show-rate-study",
+ "csv": "https://www.growthcab.com/downloads/b2b-meeting-show-rate-2026.csv",
+ "calculator": "https://www.growthcab.com/meeting-show-rate-calculator",
+ "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/): credit Growth Cab",
+ "notes": "1,380 booked B2B sales meetings, mostly Italian and European companies. Rates are shares from 0 to 1 of meetings with a known outcome. Lead-time buckets use the 1,264 meetings with both dates known.",
+ "n": 1380,
+ "clients": 25,
+ "bdrs": 11,
+ "period": [
+  "2024-09-29",
+  "2026-09-18"
+ ],
+ "overall": {
+  "n": 1380,
+  "held": 0.696,
+  "noshow": 0.146,
+  "rescheduled": 0.11,
+  "cancelled": 0.047
+ },
+ "lead": {
+  "n": 1264,
+  "median": 11.5,
+  "within_7": 0.32,
+  "within_14": 0.621
+ },
+ "by_lead": {
+  "0-2 days": {
+   "n": 96,
+   "held": 0.854,
+   "noshow": 0.083,
+   "rescheduled": 0.042,
+   "cancelled": 0.021
+  },
+  "3-7 days": {
+   "n": 308,
+   "held": 0.776,
+   "noshow": 0.101,
+   "rescheduled": 0.062,
+   "cancelled": 0.062
+  },
+  "8-14 days": {
+   "n": 381,
+   "held": 0.701,
+   "noshow": 0.129,
+   "rescheduled": 0.126,
+   "cancelled": 0.045
+  },
+  "15-30 days": {
+   "n": 320,
+   "held": 0.603,
+   "noshow": 0.184,
+   "rescheduled": 0.175,
+   "cancelled": 0.037
+  },
+  "31+ days": {
+   "n": 159,
+   "held": 0.585,
+   "noshow": 0.214,
+   "rescheduled": 0.132,
+   "cancelled": 0.069
+  }
+ },
+ "by_weekday": {
+  "Mon": {
+   "n": 103,
+   "held": 0.748,
+   "noshow": 0.078,
+   "rescheduled": 0.126,
+   "cancelled": 0.049
+  },
+  "Tue": {
+   "n": 242,
+   "held": 0.698,
+   "noshow": 0.066,
+   "rescheduled": 0.19,
+   "cancelled": 0.045
+  },
+  "Wed": {
+   "n": 286,
+   "held": 0.762,
+   "noshow": 0.101,
+   "rescheduled": 0.091,
+   "cancelled": 0.045
+  },
+  "Thu": {
+   "n": 390,
+   "held": 0.656,
+   "noshow": 0.185,
+   "rescheduled": 0.115,
+   "cancelled": 0.044
+  },
+  "Fri": {
+   "n": 252,
+   "held": 0.635,
+   "noshow": 0.222,
+   "rescheduled": 0.075,
+   "cancelled": 0.067
+  }
+ },
+ "by_seniority": {
+  "C-level / founder / owner": {
+   "n": 302,
+   "held": 0.692,
+   "noshow": 0.189,
+   "rescheduled": 0.083,
+   "cancelled": 0.036
+  },
+  "Head / Director": {
+   "n": 324,
+   "held": 0.691,
+   "noshow": 0.139,
+   "rescheduled": 0.12,
+   "cancelled": 0.049
+  },
+  "Manager": {
+   "n": 633,
+   "held": 0.705,
+   "noshow": 0.137,
+   "rescheduled": 0.114,
+   "cancelled": 0.044
+  },
+  "Other": {
+   "n": 43,
+   "held": 0.674,
+   "noshow": 0.186,
+   "rescheduled": 0.047,
+   "cancelled": 0.093
+  }
+ }
+}

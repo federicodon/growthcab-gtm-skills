@@ -1,0 +1,13 @@
+{
+  "name": "gtm-diagnostics",
+  "description": "Free GTM diagnostics from Growth Cab: cold email domain check, cold email grader, lead list QA and a meeting show rate benchmark built on 1,380 booked B2B meetings.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Growth Cab",
+    "url": "https://www.growthcab.com"
+  },
+  "homepage": "https://www.growthcab.com",
+  "repository": "https://github.com/federicodon/growthcab-gtm-skills",
+  "license": "MIT",
+  "keywords": ["gtm", "cold-email", "deliverability", "lead-generation", "sales", "outbound", "b2b"]
+}

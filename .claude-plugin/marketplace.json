@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "growthcab-gtm-skills",
+  "description": "Free GTM diagnostic skills for Claude from Growth Cab",
+  "owner": {
+    "name": "Growth Cab",
+    "url": "https://www.growthcab.com"
+  },
+  "plugins": [
+    {
+      "name": "gtm-diagnostics",
+      "description": "Cold email domain check, cold email grader, lead list QA and a meeting show rate benchmark built on 1,380 booked B2B meetings.",
+      "author": { "name": "Growth Cab", "url": "https://www.growthcab.com" },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://www.growthcab.com"
+    }
+  ]
+}
